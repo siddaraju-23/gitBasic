@@ -4,4 +4,4 @@ function Greet(user) {
   };
   document.getElementById('btn').addEventListener('click', changeText);
 }
-Greet(Siddaraju);
+Greet('Siddaraju');
